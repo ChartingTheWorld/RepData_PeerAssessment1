@@ -2,8 +2,7 @@
 title: "Activity Monitoring Data"
 author: "Greg Sanders"
 date: "Saturday, January 17, 2015"
-output:
-  html_document:
+output:   html_document:
     toc: yes
 ---
 ###Loading and preprocessing the data
